@@ -1,4 +1,4 @@
-public class MiClase{
+*//public class MiClase{
     private int edad;
     private double altura;
     private char sexo;
@@ -132,3 +132,5 @@ System.out.println(nombreDia); // Miercoles
     
         *//
 
+
+        
